@@ -29,7 +29,7 @@
 2. ~/ros2_ws/のディレクトリに戻り、colcon buildを実行する。
 3. source install/setup.bashとsource install/local_setup.bashを実行してパスを通す。
 4. ros2 launch mypkg talk_read.launch.pyを実行する。
-
+5. 終わったらCTRL+Cを押して終了させる。
 
 ## 実行例
 
