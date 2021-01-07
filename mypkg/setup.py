@@ -18,8 +18,6 @@ setup(
     zip_safe=True,
     maintainer='Keozgb',
     maintainer_email='qer10@naver.com',
-    author='Ryuichi Ueda',
-    author_email='ryuichiueda@gmail.com',
     description='a package for ros2_project',
     license='BSD',
     tests_require=['pytest'],
