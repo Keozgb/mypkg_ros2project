@@ -4,7 +4,7 @@
   <name>mypkg</name>
   <version>0.0.0</version>
   <description>a package for ros2_project</description>
-  <maintainer email="qer10@naver.com"></maintainer>
+  <maintainer email="qer10@naver.com">Keozgb</maintainer>
   <license>BSD</license>
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
