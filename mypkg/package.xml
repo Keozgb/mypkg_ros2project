@@ -5,7 +5,6 @@
   <version>0.0.0</version>
   <description>a package for ros2_project</description>
   <maintainer email="qer10@naver.com">ubuntu</maintainer>
-  <author email="ryuichiueda@example.com">Ryuichi Ueda</author>
   <license>BSD</license>
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>
